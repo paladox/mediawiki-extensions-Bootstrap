@@ -91,6 +91,7 @@ call_user_func( function () {
 		'styles'         => array(),
 		'variables'      => array(),
 		'dependencies'   => array(),
+		'position'       => 'top',
 		'cachetriggers'   => array(
 			'LocalSettings.php' => null,
 			'composer.lock'     => null,
